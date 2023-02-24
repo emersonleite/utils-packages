@@ -5,6 +5,25 @@
   "main": "./dist/my-lib.umd.cjs",
   "module": "./dist/my-lib.js",
   "types": "./dist/index.d.ts",
+  "description": "This is a simple utility package",
+  "author": "Emerson Leite",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emersonleite/utils-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emersonleite/utils-packages.git/issues"
+  },
+  "keywords": [
+    "some",
+    "keywords",
+    "to",
+    "describe",
+    "the",
+    "package"
+  ],
   "exports": {
     ".": {
       "import": "./dist/my-lib.js",
